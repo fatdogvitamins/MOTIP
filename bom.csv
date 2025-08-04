@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"UCecil's arduino, U2",2," Arduino Uno R3"
+"SERVO1",1,"Positional Micro Servo"
+"U3",1," LCD 16 x 2"
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1",1,"220 Ω Resistor"
+"U4",1," IR sensor"
